@@ -120,8 +120,3 @@ The Applied Data Science Lab at WorldQuant University is an intensive, project-b
 [WorldQuant University — Applied Data Science Lab](https://www.credly.com/badges/6c2b3150-8fcc-4c08-8596-1967b22dc4ec/public_url)
 
 
-
-## Author
-
-Delight Abioye
-Data Scientist | WQU Applied Data Science Lab Graduate
